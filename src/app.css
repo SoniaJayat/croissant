@@ -1,3 +1,6 @@
+body {
+  background: #ffb2ea;
+}
 h1,
 p {
   text-align: center;
@@ -5,6 +8,7 @@ p {
 
 footer a {
   margin: 0 10px;
+  color: white;
 }
 
 footer {
